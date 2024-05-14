@@ -3,7 +3,7 @@
 <br/>
   <div align="center">
     <strong>생년월일</strong>: 2006.12.01.<br/>
-    <strong>학력사항</strong>: 세명컴퓨터고등학교
+    <strong>학력</strong>: 세명컴퓨터고등학교 2025 졸업 예정
 <br/><br/>
 
 <h2>기술능력</h2> <br/><br/> 
