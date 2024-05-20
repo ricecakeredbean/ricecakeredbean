@@ -1,4 +1,4 @@
-<h1 align="center">김병현 Profiles</h1>
+<h1 align="center">Profiles</h1>
 
 <br/>
   <div align="center">
