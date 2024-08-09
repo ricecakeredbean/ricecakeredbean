@@ -3,7 +3,6 @@
 <br/>
   <div align="center">
     <strong>생년월일</strong>: 2006.12.01.<br/>
-    <strong>학력</strong>: 세명컴퓨터고등학교
     </div>
 <br/><br/>
 
